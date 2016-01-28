@@ -1,0 +1,2 @@
+Nginx Proxy with fastcgi
+========================
